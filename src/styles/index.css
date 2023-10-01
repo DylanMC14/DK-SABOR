@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    background-color: blue;
+}
+
+#box-navigation{
+    display: flex;
+    background-color:blueviolet ;
+}
+
+#image-logo{
+    display: flex;
+    background-image: url("../img/DKS-logo-200px.jpg");
+    width: 200px;
+    height: 200px;
+}
+
+#navigation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+}
+
+#ipt-search{
+    display: flex;
+}
+
